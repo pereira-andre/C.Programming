@@ -17,7 +17,7 @@ int main() {
            sum += i;
        }
    }
-   /* versão otimizada porque é de 15 em 15
+   /* optimized version - every 15 plus
    for (i=15; i<=n; i=i+15) {
            printf("%d\n",i);
            sum += i;
