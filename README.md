@@ -1,5 +1,5 @@
 # C.programming
- / C Programming files from CS Course
+ / Programming files from CS Course: C , C++ & C#
 
 I have started this repository to keep track of my C programming skills during my Computer Science course.
 
